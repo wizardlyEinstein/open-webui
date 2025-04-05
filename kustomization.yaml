@@ -1,0 +1,9 @@
+images:
+- name: ghcr.io/open-webui/open-webui
+  newTag: v0.5.18
+
+namespace: open-webui 
+
+resources:
+- open-webui.yaml 
+
