@@ -58,7 +58,7 @@ spec:
       volumes:
         - name: data
           hostPath:
-           path: /hdd/k3s/open-webui/data
+           path: /ssd/k3s/open-webui/data
            type: Directory
 
 ---
