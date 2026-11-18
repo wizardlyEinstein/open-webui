@@ -1,6 +1,6 @@
 images:
 - name: ghcr.io/open-webui/open-webui
-  newTag: v0.13.3
+  newTag: v0.13.4
 
 namespace: open-webui 
 
